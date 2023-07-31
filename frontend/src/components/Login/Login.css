@@ -1,0 +1,44 @@
+div.container.py-4 {
+  background-color: rgb(13, 13, 13, 0.618);
+  padding: 2rem;
+  color: whitesmoke;
+  border-radius: 50px;
+  box-shadow: 1rem;
+  margin-top: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.linkColor {
+  color: white;
+}
+
+.py-4 {
+  padding-top: 3.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+.form-control {
+  margin: 1rem;
+}
+
+button.submit-button {
+  background-color: #a6a6a6;
+  border-radius: 50px;
+  height: 1.8rem;
+  width: 8rem;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  border-style: none;
+  border-radius: 50px;
+  margin-left: 30rem;
+}
+
+button.submit-button:hover {
+  color: black;
+  background-color: #c3a959;
+  font-weight: bold;
+  text-decoration: none;
+}

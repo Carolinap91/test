@@ -1,0 +1,38 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.nav {
+  background: transprent;
+  height: 4rem;
+}
+
+.link {
+  color: white;
+  font-size: large;
+}
+
+.link:hover {
+  color: #c3a959;
+  font-weight: bold;
+}
+
+.link-like-bt {
+  background-color: #a6a6a6;
+  border-radius: 50px;
+  height: 1.8rem;
+  width: 8rem;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center;
+  color: black;
+  border-style: none;
+  border-radius: 50px;
+  margin-left: 1rem;
+}
+
+.link-like-bt:hover {
+  color: white;
+  background-color: #c3a959;
+  font-weight: bold;
+}
